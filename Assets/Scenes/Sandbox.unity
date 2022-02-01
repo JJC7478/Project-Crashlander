@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 76106513}
   m_Layer: 0
   m_Name: Launch Pad
-  m_TagString: Untagged
+  m_TagString: Friendly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -232,7 +232,7 @@ GameObject:
   - component: {fileID: 203869577}
   m_Layer: 0
   m_Name: Landing Pad
-  m_TagString: Untagged
+  m_TagString: Finish
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -618,14 +618,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 533130409, guid: 88cd932139439e64aa3c469e65d7cb42, type: 3}
-      propertyPath: m_Drag
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 533130409, guid: 88cd932139439e64aa3c469e65d7cb42, type: 3}
-      propertyPath: m_Constraints
-      value: 56
-      objectReference: {fileID: 0}
     - target: {fileID: 3575890961260770690, guid: 88cd932139439e64aa3c469e65d7cb42, type: 3}
       propertyPath: m_Name
       value: Rocket
@@ -674,5 +666,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7237750577144567843, guid: 88cd932139439e64aa3c469e65d7cb42, type: 3}
+      propertyPath: Loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237750577144567843, guid: 88cd932139439e64aa3c469e65d7cb42, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237750577144567843, guid: 88cd932139439e64aa3c469e65d7cb42, type: 3}
+      propertyPath: spreadCustomCurve.m_Curve.Array.data[0].value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237750577144567843, guid: 88cd932139439e64aa3c469e65d7cb42, type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 88cd932139439e64aa3c469e65d7cb42, type: 3}
+--- !u!1 &7237750577144567842 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3575890961260770690, guid: 88cd932139439e64aa3c469e65d7cb42, type: 3}
+  m_PrefabInstance: {fileID: 7237750577144567841}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7237750577144567850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7237750577144567842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f1682902d420294eaa8f59b0859326b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
