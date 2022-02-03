@@ -7,18 +7,21 @@ public class Movement : MonoBehaviour
 
 
 {
-    Rigidbody rb; // created variable for Rigidbody
-    AudioSource audioSource; // created variable for AudioSource
+    // PARAMETERS - for tuning, typically set in the editor
+    // CACHE - e.g. references for readability and speed
+    // STATE - private instance (member) variables
     [SerializeField] float mainThrust = 100f; // can adjust the thrust power in Unity
     [SerializeField] float rotationThrust = 150f; // can adjust rotation speed in Unity
-    // Start is called before the first frame update
+    [SerializeField] AudioClip mainThrusters;
+
+    Rigidbody rb; 
+    AudioSource audioSource; 
     void Start()
     {
-      rb =  GetComponent<Rigidbody>(); // caching reference for rb
-      audioSource = GetComponent<AudioSource>(); // caching reference for audioSource
+      rb =  GetComponent<Rigidbody>(); // caching reference for Rigidbody
+      audioSource = GetComponent<AudioSource>(); // caching reference for AudioSource
     }
 
-    // Update is called once per frame
     void Update()
     {
 
@@ -37,7 +40,7 @@ void ProcessThrust()
            if(!audioSource.isPlaying) // "!" means false; condition .isPlaying refers to if audio is already playing
            { 
             // ie, if audio is not already playing.....
-            audioSource.Play();
+            audioSource.PlayOneShot(mainThrusters);
             // play the audio when pressing/holding space
            }
            
