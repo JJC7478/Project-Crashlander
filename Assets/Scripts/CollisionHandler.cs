@@ -6,20 +6,26 @@ public class CollisionHandler : MonoBehaviour
 {
     // Script for handling different collision scenarios
     [SerializeField] float loadLevelDelay = 1f;
-
     [SerializeField] AudioClip levelSuccess;
-
     [SerializeField] AudioClip levelFail;
+    [SerializeField] ParticleSystem levelSuccessParticles;
+    [SerializeField] ParticleSystem levelFailParticles;
+    [SerializeField] ParticleSystem rocketThrustParticles;
 
     AudioSource audioSource;
+    ParticleSystem particleSys;
 
-    private void Start() 
+    bool isTransitioning = false;
+
+    public void Start() 
     {
         audioSource = GetComponent<AudioSource>();
+        particleSys = GetComponent<ParticleSystem>();
     }
 
     void OnCollisionEnter(Collision other) 
     {
+      if(isTransitioning) {return;}
       switch(other.gameObject.tag) // switch depending on the tag of the object 
       {
           case "Friendly":
@@ -33,6 +39,7 @@ public class CollisionHandler : MonoBehaviour
           {
               audioSource.PlayOneShot(levelSuccess);
           }
+          levelSuccessParticles.Play();
           break;
 
           default:
@@ -42,6 +49,7 @@ public class CollisionHandler : MonoBehaviour
           {
               audioSource.PlayOneShot(levelFail);
           }
+          levelFailParticles.Play();
           break;
 
 
@@ -52,12 +60,16 @@ public class CollisionHandler : MonoBehaviour
       {
           // todo add SFX upon crash
           // todo add particle effect upon crash
+          isTransitioning = true;
+          audioSource.Stop();
           GetComponent<Movement>().enabled = false;
           Invoke (nameof(ReloadLevel), loadLevelDelay);
       }
 
       void StartAdvanceLevelSequence()
       {
+          isTransitioning = true;
+          audioSource.Stop();
           GetComponent<Movement>().enabled = false;
           Invoke (nameof(LoadNextLevel), loadLevelDelay);
       }

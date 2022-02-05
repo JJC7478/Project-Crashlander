@@ -13,9 +13,12 @@ public class Movement : MonoBehaviour
     [SerializeField] float mainThrust = 100f; // can adjust the thrust power in Unity
     [SerializeField] float rotationThrust = 150f; // can adjust rotation speed in Unity
     [SerializeField] AudioClip mainThrusters;
+    [SerializeField] ParticleSystem rocketThrustParticles;
 
     Rigidbody rb; 
     AudioSource audioSource; 
+
+
     void Start()
     {
       rb =  GetComponent<Rigidbody>(); // caching reference for Rigidbody
@@ -42,6 +45,10 @@ void ProcessThrust()
             // ie, if audio is not already playing.....
             audioSource.PlayOneShot(mainThrusters);
             // play the audio when pressing/holding space
+            if(!rocketThrustParticles.isEmitting)
+            {
+            rocketThrustParticles.Play();
+            }
            }
            
            
@@ -51,6 +58,7 @@ void ProcessThrust()
        {
            audioSource.Stop();
            // stop the audio
+           rocketThrustParticles.Stop();
        }
 
     }
