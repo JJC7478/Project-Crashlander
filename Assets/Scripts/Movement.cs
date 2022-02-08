@@ -27,57 +27,82 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
-
         ProcessThrust(); // method for rocket thrusting
         ProcessRotation(); // method for rocket rotation
-
     } 
+
+    void CollisionDisable()
+      {
+          if(Input.GetKeyDown(KeyCode.C))
+          {
+              
+          }
+      }
     
-void ProcessThrust() 
+    void ProcessThrust() 
     {
        if (Input.GetKey(KeyCode.Space))
-       // means if you are pressing/holding the spacebar...
-       {
-           rb.AddRelativeForce(Vector3.up * mainThrust * Time.deltaTime);
-           // Adds force to rocket on the y-axis that is multiplied by mainThrust float variable and is frame rate independent
-           if(!audioSource.isPlaying) // "!" means false; condition .isPlaying refers to if audio is already playing
-           { 
-            // ie, if audio is not already playing.....
-            audioSource.PlayOneShot(mainThrusters);
-            // play the audio when pressing/holding space
-            if(!rocketThrustParticles.isEmitting)
-            {
-            rocketThrustParticles.Play();
-            }
-           }
-           
-           
-       }
-       else
-       // if not pressing space...
-       {
-           audioSource.Stop();
-           // stop the audio
-           rocketThrustParticles.Stop();
-       }
+        // means if you are pressing/holding the spacebar...
+        {
+            StartThrusting();
+        }
+        else
+        // if not pressing space...
+        {
+            StopThrusting();
+        }
 
     }
-    
+
     void ProcessRotation()
     {
        if (Input.GetKey(KeyCode.A))
-       // when pressing A key...
+        // when pressing A key...
         {
-            ApplyRotation(rotationThrust);
-            //rotate counter clockwise
+            RotateLeft();
 
         }
         else if (Input.GetKey(KeyCode.D))
         // when pressing D key...
-       {
-           ApplyRotation(-rotationThrust);
-           // rotate clockwise
-       }
+        {
+            RotateRight();
+        }
+    }
+
+    void StartThrusting()
+    {
+        rb.AddRelativeForce(Vector3.up * mainThrust * Time.deltaTime);
+        // Adds force to rocket on the y-axis that is multiplied by mainThrust float variable and is frame rate independent
+        if (!audioSource.isPlaying) // "!" means false; condition .isPlaying refers to if audio is already playing
+        {
+            // ie, if audio is not already playing.....
+            audioSource.PlayOneShot(mainThrusters);
+            // play the audio when pressing/holding space
+            if (!rocketThrustParticles.isEmitting)
+            {
+                rocketThrustParticles.Play();
+            }
+        }
+    }
+    void StopThrusting()
+    {
+        audioSource.Stop();
+        // stop the audio
+        rocketThrustParticles.Stop();
+    }
+
+
+
+    void RotateRight()
+    {
+        ApplyRotation(-rotationThrust);
+        // rotate clockwise
+    }
+
+    void RotateLeft()
+    {
+        ApplyRotation(rotationThrust);
+        //rotate counter clockwise
     }
 
     void ApplyRotation(float rotationThisFrame)

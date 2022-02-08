@@ -16,6 +16,7 @@ public class CollisionHandler : MonoBehaviour
     ParticleSystem particleSys;
 
     bool isTransitioning = false;
+    bool collisionDisabled = false;
 
     public void Start() 
     {
@@ -23,9 +24,28 @@ public class CollisionHandler : MonoBehaviour
         particleSys = GetComponent<ParticleSystem>();
     }
 
+    void Update() 
+    {
+        RespondToDebugKeys(); // be sure to remove before publishing 
+    }
+
+    void RespondToDebugKeys()
+    {
+        if(Input.GetKeyDown(KeyCode.L))
+          {
+
+              LoadNextLevel();
+
+          }
+        else if(Input.GetKeyDown(KeyCode.C))
+        {
+            collisionDisabled = !collisionDisabled; // toggles collision
+        }  
+    }
+
     void OnCollisionEnter(Collision other) 
     {
-      if(isTransitioning) {return;}
+      if(isTransitioning || collisionDisabled) {return;}
       switch(other.gameObject.tag) // switch depending on the tag of the object 
       {
           case "Friendly":
@@ -55,6 +75,7 @@ public class CollisionHandler : MonoBehaviour
 
       }
     }  
+
       
       void StartCrashSequence()
       {
