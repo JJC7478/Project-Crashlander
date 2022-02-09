@@ -13,420 +13,408 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-08T20:09:18.025-08:00
+  lastUpdatedAtString: 2022-02-08T20:14:18.540-08:00
   initializedAtString: 2022-02-08T20:03:44.612-08:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assembly-CSharp-Editor-firstpass.csproj
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assembly-CSharp-Editor-firstpass.csproj
     projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins.meta
     projectPath: Assets\Plugins.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub.meta
     projectPath: Assets\Plugins\GitHub.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor.meta
     projectPath: Assets\Plugins\GitHub\Editor.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
     projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\big-logo@2x.png
     projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
     projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\credits.txt
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\credits.txt
     projectPath: Assets\Plugins\GitHub\Editor\credits.txt
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\credits.txt.meta
     projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\eula.txt
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\eula.txt
     projectPath: Assets\Plugins\GitHub\Editor\eula.txt
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\eula.txt.meta
     projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
     projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
     projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\libsfw.bundle
     projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
     projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\libsfw.so
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\libsfw.so
     projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\libsfw.so.meta
     projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
     projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
     projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
     projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
     projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\sfw.net.dll
     projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\System.Threading.dll
     projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
     projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
     projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x64.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x64.meta
     projectPath: Assets\Plugins\GitHub\Editor\x64.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
     projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
     projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x86.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x86.meta
     projectPath: Assets\Plugins\GitHub\Editor\x86.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
     projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
     projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scenes\Over.unity
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Over.unity
     projectPath: Assets\Scenes\Over.unity
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Oscillator.cs
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scripts\Oscillator.cs
     projectPath: Assets\Scripts\Oscillator.cs
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\APIUpdater\project-dependencies.graph
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\APIUpdater\project-dependencies.graph
     projectPath: Library\APIUpdater\project-dependencies.graph
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\ArtifactDB
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -434,29 +422,11 @@ MonoBehaviour:
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
     projectPath: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\03\03888ddf439a36cd7f2e617a617e802d
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\03\03888ddf439a36cd7f2e617a617e802d
-    projectPath: Library\Artifacts\03\03888ddf439a36cd7f2e617a617e802d
-    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
     projectPath: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\08\089feb7d3df3de4ae167599ac7244751
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\08\089feb7d3df3de4ae167599ac7244751
-    projectPath: Library\Artifacts\08\089feb7d3df3de4ae167599ac7244751
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0c\0c95313f2c6a466b154ec6883eee24cd
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\0c\0c95313f2c6a466b154ec6883eee24cd
-    projectPath: Library\Artifacts\0c\0c95313f2c6a466b154ec6883eee24cd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -464,71 +434,17 @@ MonoBehaviour:
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\13\132f4ac3454ff40359f37cd6afea14ca
     projectPath: Library\Artifacts\13\132f4ac3454ff40359f37cd6afea14ca
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    projectPath: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\13\137be78bd0bdee10e9d47d7b405847c8
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\13\137be78bd0bdee10e9d47d7b405847c8
-    projectPath: Library\Artifacts\13\137be78bd0bdee10e9d47d7b405847c8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
     projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\27\27efa096ff205d9632f9f5611caaf56e
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\27\27efa096ff205d9632f9f5611caaf56e
     projectPath: Library\Artifacts\27\27efa096ff205d9632f9f5611caaf56e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
-    projectPath: Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2d\2d3746522462558f7366b58b6a0894bb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\2d\2d3746522462558f7366b58b6a0894bb
-    projectPath: Library\Artifacts\2d\2d3746522462558f7366b58b6a0894bb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2d\2dadf57436f98a02ce26a085ccf3c645
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\2d\2dadf57436f98a02ce26a085ccf3c645
-    projectPath: Library\Artifacts\2d\2dadf57436f98a02ce26a085ccf3c645
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    projectPath: Library\Artifacts\2e\2ea53b6808ba5d5fba564055d6efb2be
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2e\2ee48bfb1755327c343dd491a18a1bff
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\2e\2ee48bfb1755327c343dd491a18a1bff
-    projectPath: Library\Artifacts\2e\2ee48bfb1755327c343dd491a18a1bff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2e\2ee70311e01571b342884e8ae251bec8
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\2e\2ee70311e01571b342884e8ae251bec8
-    projectPath: Library\Artifacts\2e\2ee70311e01571b342884e8ae251bec8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\35\35d8709219bc20fa98d750e0c57314cb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\35\35d8709219bc20fa98d750e0c57314cb
-    projectPath: Library\Artifacts\35\35d8709219bc20fa98d750e0c57314cb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -536,143 +452,53 @@ MonoBehaviour:
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\35\35def34a39193460a17ed1fbe7093ae9
     projectPath: Library\Artifacts\35\35def34a39193460a17ed1fbe7093ae9
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\39\3954207238241abc0b7e747803820ac3
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\39\3954207238241abc0b7e747803820ac3
-    projectPath: Library\Artifacts\39\3954207238241abc0b7e747803820ac3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3b\3ba2f859aa8480adb5eaa86d382747c1
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\3b\3ba2f859aa8480adb5eaa86d382747c1
-    projectPath: Library\Artifacts\3b\3ba2f859aa8480adb5eaa86d382747c1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\3d\3dad68ba3763832cd7f7421340477b33
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\3d\3dad68ba3763832cd7f7421340477b33
     projectPath: Library\Artifacts\3d\3dad68ba3763832cd7f7421340477b33
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
     projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
     projectPath: Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\50\500bd55301b88bb488c4f648e347fc64
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\50\500bd55301b88bb488c4f648e347fc64
-    projectPath: Library\Artifacts\50\500bd55301b88bb488c4f648e347fc64
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\51\519911e2098d39f46edc096aa6948a24
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\51\519911e2098d39f46edc096aa6948a24
-    projectPath: Library\Artifacts\51\519911e2098d39f46edc096aa6948a24
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\54\54034857a60d9eb2da342721cecf5309
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\54\54034857a60d9eb2da342721cecf5309
-    projectPath: Library\Artifacts\54\54034857a60d9eb2da342721cecf5309
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\54\543b92e70b47e01f446696ceefd2b6da
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\54\543b92e70b47e01f446696ceefd2b6da
-    projectPath: Library\Artifacts\54\543b92e70b47e01f446696ceefd2b6da
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\56\5601af80ce300c67ce6d30f65d5eef18
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\56\5601af80ce300c67ce6d30f65d5eef18
-    projectPath: Library\Artifacts\56\5601af80ce300c67ce6d30f65d5eef18
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\57\57202c9ed48d6926610e5dba1af7c5b3
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\57\57202c9ed48d6926610e5dba1af7c5b3
-    projectPath: Library\Artifacts\57\57202c9ed48d6926610e5dba1af7c5b3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5a\5ac1bf4411ac7fa12e4c6d37195b68ec
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\5a\5ac1bf4411ac7fa12e4c6d37195b68ec
-    projectPath: Library\Artifacts\5a\5ac1bf4411ac7fa12e4c6d37195b68ec
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    projectPath: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\5f\5fd3c138f1638ae73b330856b2687c86
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\5f\5fd3c138f1638ae73b330856b2687c86
     projectPath: Library\Artifacts\5f\5fd3c138f1638ae73b330856b2687c86
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
     projectPath: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
     projectPath: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\68\6868c50a15f1288bd0e313d1a1273c1a
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\68\6868c50a15f1288bd0e313d1a1273c1a
-    projectPath: Library\Artifacts\68\6868c50a15f1288bd0e313d1a1273c1a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\6a\6aafca035d28e6248f98ea62fd174c91
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\6a\6aafca035d28e6248f98ea62fd174c91
     projectPath: Library\Artifacts\6a\6aafca035d28e6248f98ea62fd174c91
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\6a\6afd44bce7b3b7f6bbd82706d0c80d61
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\6a\6afd44bce7b3b7f6bbd82706d0c80d61
-    projectPath: Library\Artifacts\6a\6afd44bce7b3b7f6bbd82706d0c80d61
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\6d\6d02fdb1690bd47fd7c7782aca1fa396
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\6d\6d02fdb1690bd47fd7c7782aca1fa396
     projectPath: Library\Artifacts\6d\6d02fdb1690bd47fd7c7782aca1fa396
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\6e\6ef2ce856bfc944e2df6239593d87437
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\6e\6ef2ce856bfc944e2df6239593d87437
-    projectPath: Library\Artifacts\6e\6ef2ce856bfc944e2df6239593d87437
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\6f\6f8c503836faa83f462c8d5be1a7ac0b
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\6f\6f8c503836faa83f462c8d5be1a7ac0b
-    projectPath: Library\Artifacts\6f\6f8c503836faa83f462c8d5be1a7ac0b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -680,173 +506,53 @@ MonoBehaviour:
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\70\702d373b56104b6d2f69c3ad2ab33a41
     projectPath: Library\Artifacts\70\702d373b56104b6d2f69c3ad2ab33a41
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\73\73385a228cf26b91a443dfb9a266fd71
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\73\73385a228cf26b91a443dfb9a266fd71
-    projectPath: Library\Artifacts\73\73385a228cf26b91a443dfb9a266fd71
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
     projectPath: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\78\78d1dce61564196c946aabfba4369ba4
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\78\78d1dce61564196c946aabfba4369ba4
-    projectPath: Library\Artifacts\78\78d1dce61564196c946aabfba4369ba4
-    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\7e\7eba22361b836b48b8aa73dbf2f38dd2
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\7e\7eba22361b836b48b8aa73dbf2f38dd2
-    projectPath: Library\Artifacts\7e\7eba22361b836b48b8aa73dbf2f38dd2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7e\7ec3d8b56946725cf8eac2cdfcf22f5e
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\7e\7ec3d8b56946725cf8eac2cdfcf22f5e
-    projectPath: Library\Artifacts\7e\7ec3d8b56946725cf8eac2cdfcf22f5e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
     projectPath: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
     projectPath: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\82\8280fe6f8c2eda57d54792db57b958ee
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\82\8280fe6f8c2eda57d54792db57b958ee
     projectPath: Library\Artifacts\82\8280fe6f8c2eda57d54792db57b958ee
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\82\82df75e0d8f31bde4f4ec0cb23b295a8
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\82\82df75e0d8f31bde4f4ec0cb23b295a8
-    projectPath: Library\Artifacts\82\82df75e0d8f31bde4f4ec0cb23b295a8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\86\8632d471e39524ad6f1ba9a88bf0472e
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\86\8632d471e39524ad6f1ba9a88bf0472e
-    projectPath: Library\Artifacts\86\8632d471e39524ad6f1ba9a88bf0472e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\86\865ca315d3fd44bbd742793901aeb08a
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\86\865ca315d3fd44bbd742793901aeb08a
-    projectPath: Library\Artifacts\86\865ca315d3fd44bbd742793901aeb08a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
     projectPath: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\8e\8eb1980cfc2dcc309f0baf57efedc38c
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\8e\8eb1980cfc2dcc309f0baf57efedc38c
-    projectPath: Library\Artifacts\8e\8eb1980cfc2dcc309f0baf57efedc38c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\90\90685673af9df44259bcbf788596fe2b
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\90\90685673af9df44259bcbf788596fe2b
-    projectPath: Library\Artifacts\90\90685673af9df44259bcbf788596fe2b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\91\917fa1cd0dd8b09d8d320558b5f4d135
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\91\917fa1cd0dd8b09d8d320558b5f4d135
-    projectPath: Library\Artifacts\91\917fa1cd0dd8b09d8d320558b5f4d135
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9a\9ad8123016cf43e2cea7d068b38836e1
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\9a\9ad8123016cf43e2cea7d068b38836e1
-    projectPath: Library\Artifacts\9a\9ad8123016cf43e2cea7d068b38836e1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
     projectPath: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\9e\9e1d5d3989f63afa32463f5f11a88f26
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\9e\9e1d5d3989f63afa32463f5f11a88f26
-    projectPath: Library\Artifacts\9e\9e1d5d3989f63afa32463f5f11a88f26
-    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\9f\9f9eb806e599a501bcaccf2bda1e5a09
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\9f\9f9eb806e599a501bcaccf2bda1e5a09
-    projectPath: Library\Artifacts\9f\9f9eb806e599a501bcaccf2bda1e5a09
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a0\a0859fb421b26a501e55d121e2583b95
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\a0\a0859fb421b26a501e55d121e2583b95
-    projectPath: Library\Artifacts\a0\a0859fb421b26a501e55d121e2583b95
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a8\a843079fde8760ca9fd7c6293784c2b4
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\a8\a843079fde8760ca9fd7c6293784c2b4
-    projectPath: Library\Artifacts\a8\a843079fde8760ca9fd7c6293784c2b4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ac\ac7c38d3db66a73abf1f0d43205b06f0
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\ac\ac7c38d3db66a73abf1f0d43205b06f0
-    projectPath: Library\Artifacts\ac\ac7c38d3db66a73abf1f0d43205b06f0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b1\b1bb5728cf508e655b455c03945fadab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\b1\b1bb5728cf508e655b455c03945fadab
-    projectPath: Library\Artifacts\b1\b1bb5728cf508e655b455c03945fadab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
     projectPath: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\b7\b7466a8252edc5d4fc4e10e41d59d807
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\b7\b7466a8252edc5d4fc4e10e41d59d807
-    projectPath: Library\Artifacts\b7\b7466a8252edc5d4fc4e10e41d59d807
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\b8\b8fe254f610df1afcc5fd59cffaf16f0
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\b8\b8fe254f610df1afcc5fd59cffaf16f0
     projectPath: Library\Artifacts\b8\b8fe254f610df1afcc5fd59cffaf16f0
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\b9\b929966dd950de8a8ada2b59b380f9a2
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\b9\b929966dd950de8a8ada2b59b380f9a2
-    projectPath: Library\Artifacts\b9\b929966dd950de8a8ada2b59b380f9a2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ba\bad498debf2b616d9e1435c876a6cc1e
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\ba\bad498debf2b616d9e1435c876a6cc1e
-    projectPath: Library\Artifacts\ba\bad498debf2b616d9e1435c876a6cc1e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -854,23 +560,11 @@ MonoBehaviour:
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
     projectPath: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\bf\bf4e14822382dfb842d3e18f0aea3945
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\bf\bf4e14822382dfb842d3e18f0aea3945
     projectPath: Library\Artifacts\bf\bf4e14822382dfb842d3e18f0aea3945
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\c2\c225f75b8eff70722226f1da6cc62179
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\c2\c225f75b8eff70722226f1da6cc62179
-    projectPath: Library\Artifacts\c2\c225f75b8eff70722226f1da6cc62179
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c9\c96371199c7a318a9b039bd1943349e9
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\c9\c96371199c7a318a9b039bd1943349e9
-    projectPath: Library\Artifacts\c9\c96371199c7a318a9b039bd1943349e9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -878,512 +572,98 @@ MonoBehaviour:
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
     projectPath: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\ca\cadf2fb68eedce7f08acf9259264b21f
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\ca\cadf2fb68eedce7f08acf9259264b21f
-    projectPath: Library\Artifacts\ca\cadf2fb68eedce7f08acf9259264b21f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
     projectPath: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\ce\ce4d7e3ac8d68270cf7e05783515e37a
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\ce\ce4d7e3ac8d68270cf7e05783515e37a
-    projectPath: Library\Artifacts\ce\ce4d7e3ac8d68270cf7e05783515e37a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
     projectPath: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Library\Artifacts\d3\d32722fad10ea3260a98492650574c0b
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\d3\d32722fad10ea3260a98492650574c0b
-    projectPath: Library\Artifacts\d3\d32722fad10ea3260a98492650574c0b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
     projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\d9\d9516f97776326f7364e1eb1ec3d4f88
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\d9\d9516f97776326f7364e1eb1ec3d4f88
     projectPath: Library\Artifacts\d9\d9516f97776326f7364e1eb1ec3d4f88
-    originalPath: Library\Artifacts\cc\cc7609a7cedbf7127555cbbac0d2c8fe
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: Library\Artifacts\db\dbe0092dbac48330622755a67e81d330
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\db\dbe0092dbac48330622755a67e81d330
-    projectPath: Library\Artifacts\db\dbe0092dbac48330622755a67e81d330
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
-    projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
-    projectPath: Library\Artifacts\e3\e374115c83f53f99d84636605e6683d3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
-    projectPath: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ee\ee65522ae5fce7de7730e552771d9783
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\ee\ee65522ae5fce7de7730e552771d9783
-    projectPath: Library\Artifacts\ee\ee65522ae5fce7de7730e552771d9783
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f6\f63380eb4513f83f2cb530d37c201775
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\f6\f63380eb4513f83f2cb530d37c201775
-    projectPath: Library\Artifacts\f6\f63380eb4513f83f2cb530d37c201775
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
-    projectPath: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
-    projectPath: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f8\f87bb639eba76ed49ec21e47f95b6166
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\f8\f87bb639eba76ed49ec21e47f95b6166
-    projectPath: Library\Artifacts\f8\f87bb639eba76ed49ec21e47f95b6166
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
-    projectPath: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fe\feb3c3738d68e660fb6dcd6139a35220
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\fe\feb3c3738d68e660fb6dcd6139a35220
-    projectPath: Library\Artifacts\fe\feb3c3738d68e660fb6dcd6139a35220
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
     projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\CurrentLayout-default.dwlt
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\expandedItems
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\expandedItems
     projectPath: Library\expandedItems
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\gitlog.yaml
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\PackageManager\ProjectCache
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ScriptAssemblies\Cinemachine.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Cinemachine.dll
-    projectPath: Library\ScriptAssemblies\Cinemachine.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Cinemachine.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Cinemachine.pdb
-    projectPath: Library\ScriptAssemblies\Cinemachine.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-    projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
-    projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\SourceAssetDB
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\SourceAssetDB
-    projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\AssetImportWorker0.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\AssetImportWorker0.log
-    projectPath: Logs\AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\AssetImportWorker0-prev.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\AssetImportWorker0-prev.log
-    projectPath: Logs\AssetImportWorker0-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Project-Crashlander.sln
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Project-Crashlander.sln
-    projectPath: Project-Crashlander.sln
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
