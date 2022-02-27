@@ -6,9 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Over.unity
+    path: Assets/Scenes/Red Planet.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Under.unity
+    path: Assets/Scenes/Blue Planet.unity
+    guid: f2018688e9b36354eae15f16566918f0
+  - enabled: 1
+    path: Assets/Scenes/Green Planet.unity
+    guid: 01aa13a7a1e6dbb47931a98fcaac5b5a
+  - enabled: 1
+    path: Assets/Scenes/Yellow Planet.unity
+    guid: c7bd7481b0a593d46bb28b30dd267331
+  - enabled: 1
+    path: Assets/Scenes/White Planet.unity
+    guid: 546927812a10a4647be9f9c7aab51fff
+  - enabled: 1
+    path: Assets/Scenes/Template.unity
     guid: 422817cca1cb0d04d8cd320a73a72a5d
   m_configObjects: {}
