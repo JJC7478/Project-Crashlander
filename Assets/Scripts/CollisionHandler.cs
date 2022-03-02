@@ -24,25 +24,6 @@ public class CollisionHandler : MonoBehaviour
         particleSys = GetComponent<ParticleSystem>();
     }
 
-    void Update() 
-    {
-        RespondToDebugKeys(); // be sure to remove before publishing 
-    }
-
-    void RespondToDebugKeys()
-    {
-        if(Input.GetKeyDown(KeyCode.L))
-          {
-
-              LoadNextLevel();
-
-          }
-        else if(Input.GetKeyDown(KeyCode.C))
-        {
-            collisionDisabled = !collisionDisabled; // toggles collision
-        }  
-    }
-
     void OnCollisionEnter(Collision other) 
     {
       if(isTransitioning || collisionDisabled) {return;}

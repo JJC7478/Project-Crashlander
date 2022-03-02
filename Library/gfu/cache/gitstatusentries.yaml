@@ -13,790 +13,268 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-27T00:09:54.171-08:00
-  initializedAtString: 2022-02-26T23:05:42.744-08:00
+  lastUpdatedAtString: 2022-03-01T21:35:37.990-08:00
+  initializedAtString: 2022-03-01T20:50:57.358-08:00
   entries:
-  - path: Assets\Materials\Big Cube Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Big
-      Cube Material.mat
-    projectPath: Assets\Materials\Big Cube Material.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Big Cube Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Big
-      Cube Material.mat.meta
-    projectPath: Assets\Materials\Big Cube Material.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Blue Planet.meta
+  - path: Assets\Materials\Blue Planet\Blue Planet Skybox.mat
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
-      Planet.meta
-    projectPath: Assets\Materials\Blue Planet.meta
+      Planet\Blue Planet Skybox.mat
+    projectPath: Assets\Materials\Blue Planet\Blue Planet Skybox.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Giant Beam Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Giant
-      Beam Material.mat
-    projectPath: Assets\Materials\Giant Beam Material.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Giant Beam Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Giant
-      Beam Material.mat.meta
-    projectPath: Assets\Materials\Giant Beam Material.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Green Planet.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Green
-      Planet.meta
-    projectPath: Assets\Materials\Green Planet.meta
+  - path: Assets\Materials\Blue Planet\Blue Planet Skybox.mat.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Blue Planet Skybox.mat.meta
+    projectPath: Assets\Materials\Blue Planet\Blue Planet Skybox.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Green Planet\Goo Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Green
-      Planet\Goo Material.mat
-    projectPath: Assets\Materials\Green Planet\Goo Material.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Green Planet\Goo Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Green
-      Planet\Goo Material.mat.meta
-    projectPath: Assets\Materials\Green Planet\Goo Material.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Green Planet\Ground Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Green
+  - path: Assets\Materials\Blue Planet\Ground Material.mat
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
       Planet\Ground Material.mat
-    projectPath: Assets\Materials\Green Planet\Ground Material.mat
+    projectPath: Assets\Materials\Blue Planet\Ground Material.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Green Planet\Ground Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Green
+  - path: Assets\Materials\Blue Planet\Ground Material.mat.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
       Planet\Ground Material.mat.meta
-    projectPath: Assets\Materials\Green Planet\Ground Material.mat.meta
+    projectPath: Assets\Materials\Blue Planet\Ground Material.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Green Planet\Inner Wall Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Green
-      Planet\Inner Wall Material.mat
-    projectPath: Assets\Materials\Green Planet\Inner Wall Material.mat
+  - path: Assets\Materials\Blue Planet\Ice Block Material.mat
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Ice Block Material.mat
+    projectPath: Assets\Materials\Blue Planet\Ice Block Material.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Green Planet\Inner Wall Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Green
-      Planet\Inner Wall Material.mat.meta
-    projectPath: Assets\Materials\Green Planet\Inner Wall Material.mat.meta
+  - path: Assets\Materials\Blue Planet\Ice Block Material.mat.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Ice Block Material.mat.meta
+    projectPath: Assets\Materials\Blue Planet\Ice Block Material.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Green Planet\Skybox Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Green
-      Planet\Skybox Material.mat
-    projectPath: Assets\Materials\Green Planet\Skybox Material.mat
+  - path: Assets\Materials\Blue Planet\Ice Pillar Material.mat
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Ice Pillar Material.mat
+    projectPath: Assets\Materials\Blue Planet\Ice Pillar Material.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Green Planet\Skybox Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Green
-      Planet\Skybox Material.mat.meta
-    projectPath: Assets\Materials\Green Planet\Skybox Material.mat.meta
+  - path: Assets\Materials\Blue Planet\Ice Pillar Material.mat.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Ice Pillar Material.mat.meta
+    projectPath: Assets\Materials\Blue Planet\Ice Pillar Material.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Ground Material 1.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Ground
-      Material 1.mat
-    projectPath: Assets\Materials\Ground Material 1.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Ground Material 1.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Ground
-      Material 1.mat.meta
-    projectPath: Assets\Materials\Ground Material 1.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Ground Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Ground
-      Material.mat
-    projectPath: Assets\Materials\Ground Material.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Ground Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Ground
-      Material.mat.meta
-    projectPath: Assets\Materials\Ground Material.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Massive Beam Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Massive
-      Beam Material.mat
-    projectPath: Assets\Materials\Massive Beam Material.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Massive Beam Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Massive
-      Beam Material.mat.meta
-    projectPath: Assets\Materials\Massive Beam Material.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Pillar Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Pillar
-      Material.mat
-    projectPath: Assets\Materials\Pillar Material.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Pillar Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Pillar
-      Material.mat.meta
-    projectPath: Assets\Materials\Pillar Material.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Red Planet.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet.meta
-    projectPath: Assets\Materials\Red Planet.meta
+  - path: Assets\Materials\Blue Planet\Ice Platform  Material 1.mat
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Ice Platform  Material 1.mat
+    projectPath: Assets\Materials\Blue Planet\Ice Platform  Material 1.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Big Cube Material 1.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Big Cube Material 1.mat
-    projectPath: Assets\Materials\Red Planet\Big Cube Material 1.mat
+  - path: Assets\Materials\Blue Planet\Ice Platform  Material 1.mat.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Ice Platform  Material 1.mat.meta
+    projectPath: Assets\Materials\Blue Planet\Ice Platform  Material 1.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Big Cube Material 1.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Big Cube Material 1.mat.meta
-    projectPath: Assets\Materials\Red Planet\Big Cube Material 1.mat.meta
+  - path: Assets\Materials\Blue Planet\Moving Ice Platform Material.mat
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Moving Ice Platform Material.mat
+    projectPath: Assets\Materials\Blue Planet\Moving Ice Platform Material.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Big Cube Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Big Cube Material.mat
-    projectPath: Assets\Materials\Red Planet\Big Cube Material.mat
+  - path: Assets\Materials\Blue Planet\Moving Ice Platform Material.mat.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Moving Ice Platform Material.mat.meta
+    projectPath: Assets\Materials\Blue Planet\Moving Ice Platform Material.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Big Cube Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Big Cube Material.mat.meta
-    projectPath: Assets\Materials\Red Planet\Big Cube Material.mat.meta
+  - path: Assets\Materials\Blue Planet\Wall Material.mat
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Wall Material.mat
+    projectPath: Assets\Materials\Blue Planet\Wall Material.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Giant Beam Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Giant Beam Material.mat
-    projectPath: Assets\Materials\Red Planet\Giant Beam Material.mat
+  - path: Assets\Materials\Blue Planet\Wall Material.mat.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Blue
+      Planet\Wall Material.mat.meta
+    projectPath: Assets\Materials\Blue Planet\Wall Material.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Giant Beam Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Giant Beam Material.mat.meta
-    projectPath: Assets\Materials\Red Planet\Giant Beam Material.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Ground Material 1.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Ground Material 1.mat
-    projectPath: Assets\Materials\Red Planet\Ground Material 1.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Ground Material 1.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Ground Material 1.mat.meta
-    projectPath: Assets\Materials\Red Planet\Ground Material 1.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Ground Material 2.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Ground Material 2.mat
-    projectPath: Assets\Materials\Red Planet\Ground Material 2.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Ground Material 2.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Ground Material 2.mat.meta
-    projectPath: Assets\Materials\Red Planet\Ground Material 2.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Ground Material 3.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Ground Material 3.mat
-    projectPath: Assets\Materials\Red Planet\Ground Material 3.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Ground Material 3.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Ground Material 3.mat.meta
-    projectPath: Assets\Materials\Red Planet\Ground Material 3.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Ground Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Ground Material.mat
-    projectPath: Assets\Materials\Red Planet\Ground Material.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Ground Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Ground Material.mat.meta
-    projectPath: Assets\Materials\Red Planet\Ground Material.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Massive Beam Material 1.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Massive Beam Material 1.mat
-    projectPath: Assets\Materials\Red Planet\Massive Beam Material 1.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Massive Beam Material 1.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Massive Beam Material 1.mat.meta
-    projectPath: Assets\Materials\Red Planet\Massive Beam Material 1.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Massive Beam Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Massive Beam Material.mat
-    projectPath: Assets\Materials\Red Planet\Massive Beam Material.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Massive Beam Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Massive Beam Material.mat.meta
-    projectPath: Assets\Materials\Red Planet\Massive Beam Material.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Pillar Material 1.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Pillar Material 1.mat
-    projectPath: Assets\Materials\Red Planet\Pillar Material 1.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Pillar Material 1.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Pillar Material 1.mat.meta
-    projectPath: Assets\Materials\Red Planet\Pillar Material 1.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Pillar Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Pillar Material.mat
-    projectPath: Assets\Materials\Red Planet\Pillar Material.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Pillar Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Pillar Material.mat.meta
-    projectPath: Assets\Materials\Red Planet\Pillar Material.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Rock Formation Material 1.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Rock Formation Material 1.mat
-    projectPath: Assets\Materials\Red Planet\Rock Formation Material 1.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Rock Formation Material 1.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Rock Formation Material 1.mat.meta
-    projectPath: Assets\Materials\Red Planet\Rock Formation Material 1.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Rock Formation Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Rock Formation Material.mat
-    projectPath: Assets\Materials\Red Planet\Rock Formation Material.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Rock Formation Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Rock Formation Material.mat.meta
-    projectPath: Assets\Materials\Red Planet\Rock Formation Material.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Rock Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Rock Material.mat
-    projectPath: Assets\Materials\Red Planet\Rock Material.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Rock Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Rock Material.mat.meta
-    projectPath: Assets\Materials\Red Planet\Rock Material.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Skybox Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Skybox Material.mat
-    projectPath: Assets\Materials\Red Planet\Skybox Material.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Red Planet\Skybox Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Red
-      Planet\Skybox Material.mat.meta
-    projectPath: Assets\Materials\Red Planet\Skybox Material.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Rock Formation Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Rock
-      Formation Material.mat
-    projectPath: Assets\Materials\Rock Formation Material.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Rock Formation Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Rock
-      Formation Material.mat.meta
-    projectPath: Assets\Materials\Rock Formation Material.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Rock Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Rock
-      Material.mat
-    projectPath: Assets\Materials\Rock Material.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Rock Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Rock
-      Material.mat.meta
-    projectPath: Assets\Materials\Rock Material.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Skybox Material.mat
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Skybox
-      Material.mat
-    projectPath: Assets\Materials\Skybox Material.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Skybox Material.mat.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Skybox
-      Material.mat.meta
-    projectPath: Assets\Materials\Skybox Material.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets\Materials\White Planet.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\White
       Planet.meta
     projectPath: Assets\Materials\White Planet.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Materials\Yellow Planet.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Materials\Yellow
       Planet.meta
     projectPath: Assets\Materials\Yellow Planet.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Big Cube.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Big
-      Cube.prefab
-    projectPath: Assets\Prefabs\Big Cube.prefab
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets\Prefabs\Big Cube.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Big
-      Cube.prefab.meta
-    projectPath: Assets\Prefabs\Big Cube.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Giant Beam.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Giant
-      Beam.prefab
-    projectPath: Assets\Prefabs\Giant Beam.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Giant Beam.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Giant
-      Beam.prefab.meta
-    projectPath: Assets\Prefabs\Giant Beam.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Green Planet.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Green
+  - path: Assets\Prefabs\Blue Planet.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
       Planet.meta
-    projectPath: Assets\Prefabs\Green Planet.meta
+    projectPath: Assets\Prefabs\Blue Planet.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Green Planet\Goo.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Green
-      Planet\Goo.prefab
-    projectPath: Assets\Prefabs\Green Planet\Goo.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Green Planet\Goo.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Green
-      Planet\Goo.prefab.meta
-    projectPath: Assets\Prefabs\Green Planet\Goo.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Green Planet\Ground.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Green
+  - path: Assets\Prefabs\Blue Planet\Ground.prefab
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
       Planet\Ground.prefab
-    projectPath: Assets\Prefabs\Green Planet\Ground.prefab
+    projectPath: Assets\Prefabs\Blue Planet\Ground.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Green Planet\Ground.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Green
+  - path: Assets\Prefabs\Blue Planet\Ground.prefab.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
       Planet\Ground.prefab.meta
-    projectPath: Assets\Prefabs\Green Planet\Ground.prefab.meta
+    projectPath: Assets\Prefabs\Blue Planet\Ground.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Green Planet\Large Wall.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Green
-      Planet\Large Wall.prefab
-    projectPath: Assets\Prefabs\Green Planet\Large Wall.prefab
+  - path: Assets\Prefabs\Blue Planet\Ice Pillar.prefab
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Ice Pillar.prefab
+    projectPath: Assets\Prefabs\Blue Planet\Ice Pillar.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Green Planet\Large Wall.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Green
-      Planet\Large Wall.prefab.meta
-    projectPath: Assets\Prefabs\Green Planet\Large Wall.prefab.meta
+  - path: Assets\Prefabs\Blue Planet\Ice Pillar.prefab.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Ice Pillar.prefab.meta
+    projectPath: Assets\Prefabs\Blue Planet\Ice Pillar.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Ground.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Ground.prefab
-    projectPath: Assets\Prefabs\Ground.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Ground.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Ground.prefab.meta
-    projectPath: Assets\Prefabs\Ground.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Massive Beam.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Massive
-      Beam.prefab
-    projectPath: Assets\Prefabs\Massive Beam.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Massive Beam.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Massive
-      Beam.prefab.meta
-    projectPath: Assets\Prefabs\Massive Beam.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Pillar.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Pillar.prefab
-    projectPath: Assets\Prefabs\Pillar.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Pillar.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Pillar.prefab.meta
-    projectPath: Assets\Prefabs\Pillar.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Red Planet.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet.meta
-    projectPath: Assets\Prefabs\Red Planet.meta
+  - path: Assets\Prefabs\Blue Planet\Ice Platform.prefab
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Ice Platform.prefab
+    projectPath: Assets\Prefabs\Blue Planet\Ice Platform.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Big Cube.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Big Cube.prefab
-    projectPath: Assets\Prefabs\Red Planet\Big Cube.prefab
+  - path: Assets\Prefabs\Blue Planet\Ice Platform.prefab.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Ice Platform.prefab.meta
+    projectPath: Assets\Prefabs\Blue Planet\Ice Platform.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Big Cube.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Big Cube.prefab.meta
-    projectPath: Assets\Prefabs\Red Planet\Big Cube.prefab.meta
+  - path: Assets\Prefabs\Blue Planet\Large Ice Block.prefab
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Large Ice Block.prefab
+    projectPath: Assets\Prefabs\Blue Planet\Large Ice Block.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Giant Beam.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Giant Beam.prefab
-    projectPath: Assets\Prefabs\Red Planet\Giant Beam.prefab
+  - path: Assets\Prefabs\Blue Planet\Large Ice Block.prefab.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Large Ice Block.prefab.meta
+    projectPath: Assets\Prefabs\Blue Planet\Large Ice Block.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Giant Beam.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Giant Beam.prefab.meta
-    projectPath: Assets\Prefabs\Red Planet\Giant Beam.prefab.meta
+  - path: Assets\Prefabs\Blue Planet\Moving Ice Platform.prefab
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Moving Ice Platform.prefab
+    projectPath: Assets\Prefabs\Blue Planet\Moving Ice Platform.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Ground.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Ground.prefab
-    projectPath: Assets\Prefabs\Red Planet\Ground.prefab
+  - path: Assets\Prefabs\Blue Planet\Moving Ice Platform.prefab.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Moving Ice Platform.prefab.meta
+    projectPath: Assets\Prefabs\Blue Planet\Moving Ice Platform.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Ground.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Ground.prefab.meta
-    projectPath: Assets\Prefabs\Red Planet\Ground.prefab.meta
+  - path: Assets\Prefabs\Blue Planet\Small Ice Block.prefab
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Small Ice Block.prefab
+    projectPath: Assets\Prefabs\Blue Planet\Small Ice Block.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Massive Beam.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Massive Beam.prefab
-    projectPath: Assets\Prefabs\Red Planet\Massive Beam.prefab
+  - path: Assets\Prefabs\Blue Planet\Small Ice Block.prefab.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Small Ice Block.prefab.meta
+    projectPath: Assets\Prefabs\Blue Planet\Small Ice Block.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Massive Beam.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Massive Beam.prefab.meta
-    projectPath: Assets\Prefabs\Red Planet\Massive Beam.prefab.meta
+  - path: Assets\Prefabs\Blue Planet\Wall.prefab
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Wall.prefab
+    projectPath: Assets\Prefabs\Blue Planet\Wall.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Pillar.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Pillar.prefab
-    projectPath: Assets\Prefabs\Red Planet\Pillar.prefab
+  - path: Assets\Prefabs\Blue Planet\Wall.prefab.meta
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Blue
+      Planet\Wall.prefab.meta
+    projectPath: Assets\Prefabs\Blue Planet\Wall.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Pillar.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Pillar.prefab.meta
-    projectPath: Assets\Prefabs\Red Planet\Pillar.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Rock Formation .prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Rock Formation .prefab
-    projectPath: Assets\Prefabs\Red Planet\Rock Formation .prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Rock Formation .prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Rock Formation .prefab.meta
-    projectPath: Assets\Prefabs\Red Planet\Rock Formation .prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Star Rock.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Star Rock.prefab
-    projectPath: Assets\Prefabs\Red Planet\Star Rock.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Red Planet\Star Rock.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Red
-      Planet\Star Rock.prefab.meta
-    projectPath: Assets\Prefabs\Red Planet\Star Rock.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Rock Formation .prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Rock
-      Formation .prefab
-    projectPath: Assets\Prefabs\Rock Formation .prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Rock Formation .prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Rock
-      Formation .prefab.meta
-    projectPath: Assets\Prefabs\Rock Formation .prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Star Rock.prefab
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Star
-      Rock.prefab
-    projectPath: Assets\Prefabs\Star Rock.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Prefabs\Star Rock.prefab.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Prefabs\Star
-      Rock.prefab.meta
-    projectPath: Assets\Prefabs\Star Rock.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets\Scenes\Blue Planet.unity
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Blue
       Planet.unity
     projectPath: Assets\Scenes\Blue Planet.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Blue Planet.unity.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Blue
-      Planet.unity.meta
-    projectPath: Assets\Scenes\Blue Planet.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\Green Planet.unity
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Green
       Planet.unity
     projectPath: Assets\Scenes\Green Planet.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Green Planet.unity.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Green
-      Planet.unity.meta
-    projectPath: Assets\Scenes\Green Planet.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Over.unity
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Over.unity
-    projectPath: Assets\Scenes\Over.unity
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\Over.unity.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Over.unity.meta
-    projectPath: Assets\Scenes\Over.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\Red Planet.unity
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Red
-      Planet.unity
-    projectPath: Assets\Scenes\Red Planet.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Red Planet.unity.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Red
-      Planet.unity.meta
-    projectPath: Assets\Scenes\Red Planet.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Template.unity
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Template.unity
-    projectPath: Assets\Scenes\Template.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Template.unity.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Template.unity.meta
-    projectPath: Assets\Scenes\Template.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Under.unity
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Under.unity
-    projectPath: Assets\Scenes\Under.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\Under.unity.meta
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Under.unity.meta
-    projectPath: Assets\Scenes\Under.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Assets\Scenes\White Planet.unity
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\White
       Planet.unity
     projectPath: Assets\Scenes\White Planet.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scenes\White Planet.unity.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\White
       Planet.unity.meta
     projectPath: Assets\Scenes\White Planet.unity.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scenes\Yellow Planet.unity
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Yellow
       Planet.unity
     projectPath: Assets\Scenes\Yellow Planet.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scenes\Yellow Planet.unity.meta
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Assets\Scenes\Yellow
       Planet.unity.meta
     projectPath: Assets\Scenes\Yellow Planet.unity.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -812,6 +290,12 @@ MonoBehaviour:
   - path: Library\EditorInstance.json
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\expandedItems
+    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -851,18 +335,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -890,12 +362,6 @@ MonoBehaviour:
   - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Repositories\Unity 3D\Project Crashlander\Project-Crashlander\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
